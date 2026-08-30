@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "47a80936a5e6e419e48601747f48c8ccd647a40a",
+    "author": "alex-koiter <akoiter@gmail.com>",
+    "time": "2026-04-01T20:14:05Z",
+    "files": 2,
+    "merge": false,
+    "message": "added to example again\n"
+  },
+  "repo": "https://github.com/ropensci/mbquartR",
+  "pkg": "mbquartR",
+  "time": "2026-08-30T07:30:16Z"
+}
